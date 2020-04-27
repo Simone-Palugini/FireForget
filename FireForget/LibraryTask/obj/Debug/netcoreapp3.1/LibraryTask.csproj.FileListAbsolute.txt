@@ -1,0 +1,3 @@
+C:\Users\simop\OneDrive\Desktop\Progetti Visual Studio\TEPSIT\FireForget\LibraryTask\obj\Debug\netcoreapp3.1\LibraryTask.csprojAssemblyReference.cache
+C:\Users\simop\OneDrive\Desktop\Progetti Visual Studio\TEPSIT\FireForget\LibraryTask\obj\Debug\netcoreapp3.1\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\simop\OneDrive\Desktop\Progetti Visual Studio\TEPSIT\FireForget\LibraryTask\obj\Debug\netcoreapp3.1\LibraryTask.AssemblyInfo.cs
